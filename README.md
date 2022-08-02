@@ -1,5 +1,4 @@
-# CrowBot-Leak-by-17'
-
+# CrowBot-Leak-by-17'🕵️‍♂️
 Discord CrowBot Leaked and Reworked by myself 
 
 
@@ -13,12 +12,13 @@ Discord CrowBot Leaked and Reworked by myself
         "owner": "Set OwnerRoleID",
 
 # Start 
+```
+Step 1 - Open a CMD / Shell in the folder
+Step 2 - Type : "npm i"
+Step 3 - Wait for the modules
+Step 4 - To Start : "node ."
 
-Open a CMD / Shell in the folder
-Type : "npm i"
-Wait for the modules
-To Start : "node ."
-
+```
 
 # Contact : 
 
